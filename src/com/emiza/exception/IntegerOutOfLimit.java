@@ -1,6 +1,11 @@
 /**
- * 
- */
+* <h1>IntegerOutOfLimit</h1>
+* This class defines IntegerOutOfLimit exception. 
+* <p>
+*
+* @version 1.0
+* @since   10-01-2017 */
+ 
 package com.emiza.exception;
 
 import com.emiza.constants.Constant;

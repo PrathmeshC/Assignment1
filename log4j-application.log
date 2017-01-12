@@ -1,0 +1,50 @@
+20 Divided by 3 = 6.6667
+
+com.emiza.exception.DivideByZero: Operand2 must not be zero.
+com.emiza.exception.DivideByZero: Operand2 must not be zero.
+1 Plus 2 = 3.0000
+4 Minus 3 = 1.0000
+5 Multipled by 6 = 30.0000
+60 Divided by 25 = 2.4000
+7 Mod 8 = 7.0000
+
+1 Plus 2 = 3.0000
+4 Minus 3 = 1.0000
+5 Multipled by 6 = 30.0000
+60 Divided by 25 = 2.4000
+7 Mod 8 = 7.0000
+
+1 Plus 2 = 3.0000
+4 Minus 3 = 1.0000
+5 Multipled by 6 = 30.0000
+60 Divided by 25 = 2.4000
+7 Mod 8 = 7.0000
+
+1 Plus 2 = 3.0000
+4 Minus 3 = 1.0000
+5 Multipled by 6 = 30.0000
+60 Divided by 25 = 2.4000
+7 Mod 8 = 7.0000
+
+com.emiza.exception.IntegerOutOfLimit: 56000 is out of range of 0 to 50000.
+com.emiza.exception.DivideByZero: Operand2 must not be zero.
+com.emiza.exception.IntegerOutOfLimit: -1 is out of range of 0 to 50000.
+com.emiza.exception.InvalidOperator: Please enter valid operator: P(Plus),S(Subtract),M(Multiply),D(Division),N(Modulus)
+1 Plus 2 = 3.0000
+4 Plus 3 = 7.0000
+5 Multipled by 6 = 30.0000
+60 Divided by 25 = 2.4000
+7 Mod 8 = 7.0000
+
+1 Plus 2 = 3.0000
+4 Minus 3 = 1.0000
+5 Multipled by 6 = 30.0000
+60 Divided by 25 = 2.4000
+7 Mod 8 = 7.0000
+
+com.emiza.exception.OperandException: Operands missing
+com.emiza.exception.OperandException: Operands missing
+com.emiza.exception.IntegerOutOfLimit: 60000 is out of range of 0 to 50000.
+com.emiza.exception.IntegerOutOfLimit: -1 is out of range of 0 to 50000.
+com.emiza.exception.IntegerOutOfLimit: -1 is out of range of 0 to 50000.
+com.emiza.exception.IntegerOutOfLimit: -1 is out of range of 0 to 50000.
